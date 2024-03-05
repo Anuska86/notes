@@ -11,3 +11,11 @@ Launch with npm run dev
 
 
 Install JSON server npm install -g json-server
+
+json-server --port 3001 --watch db.json
+
+Install Axios npm install axios
+
+Install Json Server npm install json-server --save-dev
+
+Run Server npm run server
